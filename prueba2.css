@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium';
+    background-color: #e3dadb;
+}
+
+header{
+    background-color: brown;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a img{
+    height: 100px;
+}
+
+nav a{
+    margin-right: 40px
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.circle-logo{
+    
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin: 5px
+}
+
+.presentation img{
+    height: 600px;
+    width: 1000px;
+    margin:40px;
+  opacity: 0.85;
+    background-size: cover;
+}
+
+.sorteo{
+    margin-right: 0;
+    height: 250px;
+   
+}
+
+textarea{
+   margin-left: 3px;
+}
+
+#initial{
+    justify-content: space-around;
+    display: flex;
+}
+
+.sorteos{
+    margin-top: 40px;
+    border: 5px solid black;
+    margin-bottom: 32px;
+    align-items: center;
+    background-color: white;
+}
+
+#parap{
+    border: 5px solid black;
+}
+
+button{
+    margin-bottom: 5px;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 25px;
+    font-family: Cookie;
+}
+
+
+footer{
+    background-color: black;
+    display: flex;
+    margin-top: 100px;
+    color:white;
+    justify-content: space-between;
+}
+
+footer img{
+    margin-right: 230px;
+    margin-left: 230px;
+    margin-top: 0;
+}
+
+main img{
+    height: 640px;
+    width: 500px;
+    border: 7px solid white;
+}
+
+main{
+    background-color: #ab001c;
+    padding-bottom: 30px;
+    margin-right: 20px;
+}
+
+main h1{
+    text-align: center;
+    color: white;
+}
+
+section p{
+    text-align: center;
+    text-align: justify;
+    
+}
+
+#parap{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 10px;
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+#final{
+    background-color: white;
+    padding-bottom: 100px;
+    padding-top: 30px;
+    margin: 50px;
+    border: 6px solid black;
+}
+
+.parrafofinal{
+    margin: 40px;
+    text-align: justify;
+}
+
+.parrafofinal h2{
+    font-size: 40px;
+}
+
+footer p{
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+#parap h1{
+    font-size: 30px;
+}
+
+footer .nosotros{
+    padding-left: 26px;
+}
+
+footer .ubic{
+    margin-left: 220px;
+}
+
+.contacto{
+    height: 110px;
+}
+
+.nosotros{
+    height: 90px;
+}
+
+.ubic{
+    height: 110px;
+    margin-bottom: 40px;
+    padding-bottom: 10px;
+    margin-top: 0.5px;
+}
+
+#ubic p{
+    margin-bottom: 0.5px;
+}
